@@ -104,6 +104,13 @@ Version		: 1.0.0
 }
 
 
+.border-corners{
+	border-radius: 25px;
+	-webkit-box-shadow: 5px 5px 20px 7px rgba(255,34,84,0.15); 
+box-shadow: 5px 5px 20px 7px rgba(255,34,84,0.15);
+}
+
+
 
 /*============================
  *        02. GENERAL        *
@@ -1144,7 +1151,7 @@ a.animated-button.style2:hover:after {
     transform: translateY(-50%);
 }
 #section-features1 .left h6{
-	font-family: 'Inter-Bold';
+	font-family: 'Inter-Medium';
 	font-size: 14px;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -1281,14 +1288,15 @@ a.animated-button.style2:hover:after {
 	
 }
 #section-appscreen1 .owl-item.center > div {
-    -webkit-box-shadow: 0 0 50px -22px #64a0e8;
-    box-shadow: 0 0 50px -22px #64a0e8;
+    /* -webkit-box-shadow: 0 0 50px -22px #64a0e8;
+    box-shadow: 0 0 50px -22px #64a0e8; */
     transition: all 0.15s ease-in-out;
 }
 
 #section-appscreen1 .owl-carousel .owl-item img {
     width: auto;
-    margin: 0 auto;
+	margin: 0 auto;
+	border-radius: 25px;
 }
 #section-appscreen1 .owl-theme .owl-dots .owl-dot.active span {
     background: #628bea;
