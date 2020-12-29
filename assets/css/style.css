@@ -66,8 +66,8 @@ Version		: 1.0.0
  * 1.1 Poppins
  */
 @font-face {
-    font-family: 'Inter-Bold';
-    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+    font-family: 'DM Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
 }
 
 
@@ -384,7 +384,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 5px;
 }
 .title1 h2{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 36px;
 	color: #343434;
 	line-height: 43px;
@@ -907,7 +907,7 @@ a.animated-button.style2:hover:after {
     text-align: center;
 }
 #section-subheader1 h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 30px;
 	font-weight: bold;
 	margin-bottom: 10px;
@@ -922,7 +922,7 @@ a.animated-button.style2:hover:after {
 	display: inline-block;
 }
 #section-subheader1 li a{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 14px;
 	color: #ffffff;
 	letter-spacing: 3px;
@@ -1000,7 +1000,7 @@ a.animated-button.style2:hover:after {
 	position: relative;
 }
 #section-slider1 .swiper-slide .slider-content .left h1{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 48px;
 	color: #ffffff;
 	margin-bottom: 30px;
@@ -1077,7 +1077,7 @@ a.animated-button.style2:hover:after {
 	text-align: center;
 }
 #section-slider2 .swiper-slide .slider-content .content h1{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 48px;
 	color: #ffffff;
 	margin-bottom: 15px;
@@ -1159,7 +1159,7 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 5px;
 }
 #section-features1 .left h2{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 36px;
 	color: #343434;
 	line-height: 43px;
@@ -1256,7 +1256,7 @@ a.animated-button.style2:hover:after {
 }
 #section-features2 .right h2,
 .section-features2 .right h2{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 36px;
 	color: #343434;
 	line-height: 43px;
@@ -1497,7 +1497,7 @@ a.animated-button.style2:hover:after {
 	display: inline-block;
 }
 #section-testimonial1 .item h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 21px;
 	color: #638dea;
 	margin-bottom: 5px;
@@ -1569,27 +1569,27 @@ a.animated-button.style2:hover:after {
 	padding: 22px 35px;
 }
 #section-subscribe1 .form ::-webkit-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
     color: #555556;
 }
 #section-subscribe1 .form ::-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px;
     color: #555556;
 }
 #section-subscribe1 .form :-ms-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px;
     color: #555556;
 }
 #section-subscribe1 .form :-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
     color: #555556;
 }
 #section-subscribe1 button{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
     font-size: 12px;
     color: #ffffff;
     letter-spacing: 2px;
@@ -1641,7 +1641,7 @@ a.animated-button.style2:hover:after {
 	background: #ffffff;
 }
 #section-download1 h1{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
     font-size: 56px;
     color: #343434;
     line-height: 45px;
@@ -1687,13 +1687,13 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 37px;
 }
 #section-features3 .item h4{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
     font-size: 20px;
     color: #343434;
     margin-bottom: 34px;
 }
 #section-features3 .item p{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
     font-size: 16px;
     color: #555556;
     line-height: 30px;
@@ -1739,7 +1739,7 @@ a.animated-button.style2:hover:after {
 }
 
 #section-bloglist1 .item h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 26px;
 	color: #343434;
 	font-weight: 600;
@@ -1774,7 +1774,7 @@ a.animated-button.style2:hover:after {
 }
 
 #section-contact1 .left input,#section-contact1 .left textarea{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	color: #555556;
 	font-size: 18px;
 	border: 2px solid #f5fafc !important;
@@ -1798,27 +1798,27 @@ a.animated-button.style2:hover:after {
 }
 
 #section-contact1 .left ::-webkit-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px; 
     color: #555556;
 }
 #section-contact1 .left ::-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
     color: #555556;
 }
 #section-contact1 .left :-ms-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
     color: #555556;
 }
 #section-contact1 .left :-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px; 
     color: #555556;
 }
 #section-contact1 .left button{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
     font-size: 12px;
     color: #ffffff;
     letter-spacing: 2px;
@@ -1863,7 +1863,7 @@ a.animated-button.style2:hover:after {
 
 /* Details */
 #section-contact1 .right h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 24px;
     color: #343434;
     font-weight: 600;
@@ -1878,13 +1878,13 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 45px;
 }
 #section-contact1 .right li:nth-child(1){
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 20px;
     color: #555556;
     margin-bottom: 5px;
 }
 #section-contact1 .right li:nth-child(2){
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 26px;
     color: #2da9ca;
 }
@@ -1922,7 +1922,7 @@ a.animated-button.style2:hover:after {
     display: inline-block;
 }
 #section-blogdetail1 .contents h2{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 36px;
 	color: #343434;
 	margin-bottom: 10px;
@@ -1934,7 +1934,7 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 30px;
 }
 #section-blogdetail1 .contents > p{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
 	color: #555556;
 	line-height: 36px;
@@ -1952,7 +1952,7 @@ a.animated-button.style2:hover:after {
 	list-style: none;
 }
 #section-blogdetail1 .contents .share li{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
 	color: #555556;
 	display: inline-block;
@@ -1995,13 +1995,13 @@ a.animated-button.style2:hover:after {
 	padding-left: 40px;
 }
 #section-blogdetail1 .contents .author .detail h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 26px;
 	color: #343434;
 	margin-bottom: 5px;
 }
 #section-blogdetail1 .contents .author .detail p{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
 	color: #555556;
 	line-height: 36px;
@@ -2013,7 +2013,7 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 50px;
 }
 #section-blogdetail1 .contents .comments h1{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 26px;
 	color: #343434;
 	margin-bottom: 49px;
@@ -2040,19 +2040,19 @@ a.animated-button.style2:hover:after {
 }
 
 #section-blogdetail1 .contents .comments .media h5{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
 	color: #343434;
 	margin-bottom: 8px;
 }
 #section-blogdetail1 .contents .comments .media h5 span{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
 	color: #2da9ca;
 	margin-left: 10px;
 }
 #section-blogdetail1 .contents .comments .media-body p{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px;
 	color: #565656;
 	line-height: 36px;
@@ -2066,7 +2066,7 @@ a.animated-button.style2:hover:after {
     max-width: 470px;
 }
 #section-blogdetail1 .contents .comments .media-body a.reply{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 14px;
 	color: #2da9ca;
 	letter-spacing: 2px;
@@ -2079,7 +2079,7 @@ a.animated-button.style2:hover:after {
  * Leave Comment
  */
 #section-blogdetail1 .contents .leave-comment h1{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 26px;
 	color: #343434;
 	margin-bottom: 52px;
@@ -2093,7 +2093,7 @@ a.animated-button.style2:hover:after {
     margin-bottom: 0;
 }
 #section-blogdetail1 .leave-comment input,#section-blogdetail1 .leave-comment textarea{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	color: #555556;
 	font-size: 16px;
 	border: 2px solid #f5fafc !important;
@@ -2116,27 +2116,27 @@ a.animated-button.style2:hover:after {
 }
 
 #section-blogdetail1 .leave-comment ::-webkit-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
     color: #555556;
 }
 #section-blogdetail1 .leave-comment ::-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px;
     color: #555556;
 }
 #section-blogdetail1 .leave-comment :-ms-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px;
     color: #555556;
 }
 #section-blogdetail1 .leave-comment :-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
     color: #555556;
 }
 #section-blogdetail1 .leave-comment button{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
     font-size: 12px;
     color: #ffffff;
     letter-spacing: 2px;
@@ -2191,7 +2191,7 @@ a.animated-button.style2:hover:after {
 	position: relative;
 }
 #section-blogdetail1 .sidebar .searchbar form input[type="text"] {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	color: #555556;
 	font-size: 16px;
 	border: 2px solid #f5fafc !important;
@@ -2232,22 +2232,22 @@ a.animated-button.style2:hover:after {
     transition: all 0.2s ease-in-out;
 }
 #section-blogdetail1 .sidebar .searchbar ::-webkit-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
     color: #555556;
 }
 #section-blogdetail1 .sidebar .searchbar ::-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px;
     color: #555556;
 }
 #section-blogdetail1 .sidebar .searchbar :-ms-input-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px;
     color: #555556;
 }
 #section-blogdetail1 .sidebar .searchbar :-moz-placeholder {
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
     color: #555556;
 }
@@ -2259,7 +2259,7 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 2px;
 }
 #section-blogdetail1 .sidebar .recent-posts h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 20px; 
     color: #555556;
     margin-bottom: 23px;
@@ -2281,7 +2281,7 @@ a.animated-button.style2:hover:after {
     transition: all 0.2s ease-in-out;
 }
 #section-blogdetail1 .sidebar .recent-posts .item h4{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px; 
 	color: #343434;
 	margin-bottom: 10px;
@@ -2292,7 +2292,7 @@ a.animated-button.style2:hover:after {
     transition: all 0.2s ease-in-out;
 }
 #section-blogdetail1 .sidebar .recent-posts .item h5{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 16px; 
 	color: #2da9ca;
 	margin-bottom: 30px;
@@ -2301,7 +2301,7 @@ a.animated-button.style2:hover:after {
 }
 
 #section-blogdetail1 .sidebar .recent-posts .item p{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px; 
 	color: #5f5f5f;
 	line-height: 31px;
@@ -2315,7 +2315,7 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 2px;
 }
 #section-blogdetail1 .sidebar .categories h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 20px; 
     color: #555556;
     margin-bottom: 23px;
@@ -2329,7 +2329,7 @@ a.animated-button.style2:hover:after {
 	position: relative;
 }
 #section-blogdetail1 .sidebar .categories ul li a{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px; 
 	color: #555556;
 }
@@ -2356,7 +2356,7 @@ a.animated-button.style2:hover:after {
 	margin-bottom: 2px;
 }
 #section-blogdetail1 .sidebar .tags h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 20px; 
     color: #555556;
     margin-bottom: 23px;
@@ -2371,7 +2371,7 @@ a.animated-button.style2:hover:after {
 	display: inline-block;
 }
 #section-blogdetail1 .sidebar .tags ul li a{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	font-size: 18px; 
 	color: #555556;
 }
@@ -3023,7 +3023,7 @@ a.animated-button.style2:hover:after {
 }
 
 #color-switcher .switcher-header h3{
-	font-family: 'Inter-Bold';
+	font-family: 'DM Sans', sans-serif;;
 	color: #343434;
 	font-size: 22px;
 }
